@@ -1,7 +1,7 @@
 {
   "name": "language-jbase",
   "main": "./lib/language-jbase",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "jBase Language and Syntax Highlighting",
   "keywords": [],
   "activationCommands": {
